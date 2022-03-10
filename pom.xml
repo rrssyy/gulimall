@@ -5,7 +5,7 @@
 
     <groupId>com.rsy</groupId>
     <artifactId>gulimall-coupon</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.0.2-SNAPSHOT</version>
     <name>gulimall</name>
     <description>聚合服务</description>
     <packaging>pom</packaging>
